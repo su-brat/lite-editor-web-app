@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lite-editor-web-app/static/css/main.073c9b0a.css",
-    "main.js": "/lite-editor-web-app/static/js/main.55d4ad17.js",
-    "static/js/787.5fb14c9c.chunk.js": "/lite-editor-web-app/static/js/787.5fb14c9c.chunk.js",
-    "index.html": "/lite-editor-web-app/index.html",
-    "main.073c9b0a.css.map": "/lite-editor-web-app/static/css/main.073c9b0a.css.map",
-    "main.55d4ad17.js.map": "/lite-editor-web-app/static/js/main.55d4ad17.js.map",
-    "787.5fb14c9c.chunk.js.map": "/lite-editor-web-app/static/js/787.5fb14c9c.chunk.js.map"
+    "main.css": "/text-util-web-app/static/css/main.073c9b0a.css",
+    "main.js": "/text-util-web-app/static/js/main.63291403.js",
+    "static/js/787.c82fa19f.chunk.js": "/text-util-web-app/static/js/787.c82fa19f.chunk.js",
+    "index.html": "/text-util-web-app/index.html",
+    "main.073c9b0a.css.map": "/text-util-web-app/static/css/main.073c9b0a.css.map",
+    "main.63291403.js.map": "/text-util-web-app/static/js/main.63291403.js.map",
+    "787.c82fa19f.chunk.js.map": "/text-util-web-app/static/js/787.c82fa19f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.55d4ad17.js"
+    "static/js/main.63291403.js"
   ]
 }
