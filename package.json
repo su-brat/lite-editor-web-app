@@ -1,6 +1,6 @@
 {
-  "homepage": "http://su-brat.github.io/lite-editor-web-app",
-  "name": "lite-editor-web-app",
+  "homepage": "http://su-brat.github.io/text-util-web-app",
+  "name": "text-util-web-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
