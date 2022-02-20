@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lite-editor-web-app/static/css/main.073c9b0a.css",
+    "main.js": "/lite-editor-web-app/static/js/main.55d4ad17.js",
+    "static/js/787.5fb14c9c.chunk.js": "/lite-editor-web-app/static/js/787.5fb14c9c.chunk.js",
+    "index.html": "/lite-editor-web-app/index.html",
+    "main.073c9b0a.css.map": "/lite-editor-web-app/static/css/main.073c9b0a.css.map",
+    "main.55d4ad17.js.map": "/lite-editor-web-app/static/js/main.55d4ad17.js.map",
+    "787.5fb14c9c.chunk.js.map": "/lite-editor-web-app/static/js/787.5fb14c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.55d4ad17.js"
+  ]
+}
