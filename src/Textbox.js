@@ -38,6 +38,8 @@ export default function Textbox(props) {
     setSelectStart(event.target.selectionStart);
     setSelectEnd(event.target.selectionEnd);
   }
+  const wordCount = (text && text.trim() && text.trim().split(" ").length) || 0;
+  const readTime = wordCount / 200;
   return (
     <div className="p-2">
       <h2>Enter text here</h2>
@@ -61,10 +63,8 @@ export default function Textbox(props) {
       <div className="m-1">
         <p>Special characters count: {specialCharCount}</p>
         <p>Total characters count: {text.length}</p>
-        <p>
-          Total word count:{" "}
-          {(text && text.trim() && text.trim().split(" ").length) || 0}
-        </p>
+        <p>Total word count: {wordCount}</p>
+        <p>Time: {readTime} min read</p>
       </div>
     </div>
   );
